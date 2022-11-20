@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="aws_publisher" type="aws_publisher.py" name="aws_publisher" output="screen"/>
+</launch>
